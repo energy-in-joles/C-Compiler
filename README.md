@@ -20,4 +20,4 @@ In root directory,
 ```
 
 ### Acknowledgements ###
-Completed as pair work with @parthak314. 
+Completed as pair work with [@parthak314](https://github.com/parthak314). 
