@@ -1,0 +1,14 @@
+bin/
+build/
+*.o
+*.tab.hpp
+*.tab.cpp
+*.yy.cpp
+*.output
+*.gcno
+*.gcda
+coverage/
+*.d
+*.pyc
+.vscode/
+debug_context.txt
