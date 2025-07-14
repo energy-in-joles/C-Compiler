@@ -1,5 +1,5 @@
 # C-Compiler
-C Compiler project for Imperial College Instruction Architecture and Compiler (IAC) Year 2 Course, compiled for RV32IMFD. Received a grade of 85%, passing 167/201 test cases.
+C Compiler project for Imperial College Instruction Architecture and Compiler (IAC) Year 2 Course, compiled for C90 grammar on the RV32IMFD architecture. Received a grade of 85%, passing 167/201 test cases.
 
 Fully Implemented:
 1. `float`, `int`, `char`, `double`
