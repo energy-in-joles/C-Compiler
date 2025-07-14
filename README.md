@@ -13,10 +13,6 @@ Fully Implemented:
 9. strings
 10. sizeof
 
-Not Implemented:
-1. structs
-2. typedef
-
 ### To Run ###
 In root directory,
 ```bash
